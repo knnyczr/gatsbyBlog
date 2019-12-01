@@ -1,7 +1,10 @@
 {
   "endOfLine": "lf",
-  "semi": false,
+  "semi": true,
   "singleQuote": false,
   "tabWidth": 2,
-  "trailingComma": "es5"
+  "trailingComma": "es5", 
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
 }
